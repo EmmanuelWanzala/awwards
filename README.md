@@ -5,8 +5,7 @@ This is a project that allows users to review and comment onother people's proje
 This project allows users to post their projects for other users to rate according to design, usability and content
 
 ## Live Link
-Click View Site to visit the site
-
+Click View Site to visit the site https://awardspa.herokuapp.com/accounts/login/
 
 ## User Story
 A user can view posted projects and their details.
